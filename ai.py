@@ -160,8 +160,7 @@ with col2:
 # Footer
 st.divider()
 st.markdown("""
-<div style='text-align: center; color: gray;'>
-    <p>Built with Streamlit, LangChain, and Groq AI | 
-    Remember to validate topics with your advisor and check existing literature</p>
+<div style='text-align: center; font-weight: bold;'>
+    Built by Aayush Panchal
 </div>
 """, unsafe_allow_html=True)
